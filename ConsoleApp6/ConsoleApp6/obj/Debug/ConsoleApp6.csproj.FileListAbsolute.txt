@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\learn-c-sharp\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\learn-c-sharp\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
